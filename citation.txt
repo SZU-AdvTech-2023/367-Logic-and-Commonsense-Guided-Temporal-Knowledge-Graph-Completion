@@ -1,0 +1,9 @@
+@inproceedings{REPO367,
+    author = "Niu, Guanglin and Li, Bo",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "4",
+    pages = "4569--4577",
+    title = "{Logic and commonsense-guided temporal knowledge graph completion}",
+    volume = "37",
+    year = "2023"
+}
